@@ -1,0 +1,9 @@
+##Html tag is <p>,</p> and element is <p>this is paragraph</p>.
+
+## Html have 2 types of element 1. Block element and 2. Inline element.
+
+## when we are using in css height and width by deafult generate padding and border for removing this using box-sizing:border-box;.
+
+##Grid :
+-> Web page layout technique
+-> full width 100% and divided into 12 column thn insert the element
