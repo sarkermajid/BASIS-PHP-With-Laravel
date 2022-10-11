@@ -1,0 +1,11 @@
+## PSEUDO CLASS and PSEUDO ELEMENT : the special syntax of css eta nidristo somoy html and css er angsik
+and pura poriborton kore , pseudo class pura poriborton kore and element angsik poriborton kore
+
+## Sementic element : html er kno part k alada vabe define korar jonno html kisu element make kore rakhse
+tader k amara sementic element boli..
+such as : header,nav,section,footer
+
+## Media query : special syntax of css eta browser ar regulation k kaje lagiye condition make kore. condition
+ er vitore css class thake condition true hole kaj krbe.
+ max-width:700px mane 700px projonto
+ min-width:700px mane 700px er por theke
