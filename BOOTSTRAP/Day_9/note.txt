@@ -1,0 +1,23 @@
+Bootstrap important topic that u have must to know:
+=> grid
+=> menu
+=> slide
+=> card
+=> modal
+=> form
+=> table
+=> according
+
+Menu
+=> navbar-expand diye float left er kaj hoy.
+=> ms-auto , me-auto, mx-auto agula diye porjaykrome right,left,middle hobe.
+=> logor height 50px ideal.
+
+Grid :
+sm => 576-768
+md => 768-992
+lg => 992-1200
+xl => 1200-1400
+xxl => 1400- top
+
+#always child er grid pabe uporer guli.

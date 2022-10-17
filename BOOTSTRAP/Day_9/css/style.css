@@ -1,0 +1,10 @@
+.logo{
+    color: #ffc107;
+    font-family: cursive;
+}
+.logo:hover{
+    color: red;
+}
+.h-600{
+    height: 600px;
+}
