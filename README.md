@@ -1,4 +1,4 @@
-## BASIS-PHP-With-Laravel
+## BASIS-PHP-With-LARAVEL
 
 #Class-1 : INTRODUCTION <br/>
 #Class-2 : HTML <br/>
