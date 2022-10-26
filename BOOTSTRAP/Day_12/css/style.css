@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text-color{
+    color: #ff4800;
+}
+.bg-color{
+    background-color: #ff4800;
+}
+.bg-color:hover{
+    background-color: #d93d00;
+}
+.my-nav-link{
+    font-weight: bold;
+}
+.my-nav-link:hover{
+    background-color: #ff4800;
+    color: white;
+}
