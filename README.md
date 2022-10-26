@@ -1,4 +1,4 @@
-## BASIS-PHP-With-Laravel
+## BASIS-PHP-With-LARAVEL
 
 #Class-1 : INTRODUCTION <br/>
 #Class-2 : HTML <br/>
@@ -10,3 +10,4 @@
 #Class-8 : CSS/BOOTSTRAP <br/>
 #Class-9 : BOOTSTRAP <br/>
 #Class-10 : BOOTSTRAP <br/>
+#Class-11 : BOOTSTRAP <br/>
